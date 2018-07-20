@@ -15,9 +15,11 @@
 
 可视化代码：visualization.ipynb
 
-模型代码：model_transfer_InceptionRestNetV2_succefull_loss0-056.ipynb
+模型代码：model_final.ipynb
 
 报告文件：report.pdf
+
+最后预测结果文件：pred_changePredictCsvMethond_Drop050_730layer.csv
 
 
 ## AWS 设置
@@ -38,7 +40,7 @@
 
 ## 结果
 
-模型一共需要运行30分钟左右.
+模型一共需要运行40分钟左右.
 
 ![result](https://note.youdao.com/yws/public/resource/5ec4832fbee107e8f067dd386dd72a8a/xmlnote/01EBD793AC624717B8E21F8B2C6A8536/21705)
 
