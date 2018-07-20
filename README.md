@@ -4,7 +4,7 @@
 猫狗的数据、评价信息，可以见 [kaggle dog_vs_cat](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition) 页面。
 
 ## 运行环境
-- p2.xlarge on AWS
+- p3.2xlarge on AWS
 - Python 3.6.0
 - Tensorflow-gpu
 - keras
